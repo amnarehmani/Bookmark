@@ -1,0 +1,118 @@
+.navbar
+{
+    margin-top: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-nav{
+   margin-right: 6rem;
+    
+}
+
+
+.login-button{
+    background-color: darkred !important;
+    color: white !important;
+    margin-right: 5rem; 
+}
+
+
+.hero{
+    
+    margin: 80px;
+
+}
+
+
+.hero-heading{
+    font-weight: 500;
+}
+
+
+.feature{
+    text-align: center;
+    padding: 50px;
+}
+
+
+.feature h3{
+
+    font-weight: 400;
+}
+
+.feature p{
+    font-size: 18px;
+    font-weight: 350;
+}
+
+
+.cont-heading{
+  
+    font-size: 30px !important;
+
+}
+
+.cont-para{
+    font-size: 20px !important;
+}
+
+
+.download{
+    text-align: center;
+    padding: 30px;
+}
+
+.download h3{
+    font-weight: 400;
+}
+
+.download p{
+    font-size: 18px;
+    font-weight: 350;
+}
+
+
+.cardone{
+     padding:50px ;
+     margin: 40px;
+}
+
+.card-text{
+    margin-left: 30px;
+}
+
+
+.card-img{
+    margin-left: 32px;
+    padding-bottom: 20px;
+}
+
+
+.card{
+    width: 20%;
+}
+
+
+.container-card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.card-position{
+    position: relative;
+    left: 400px;
+     bottom: 300px;
+}
+
+
+.card-position2{
+    position: relative;
+    left: 800px;
+     bottom: 500px;
+}
+
+
